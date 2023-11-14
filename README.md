@@ -1,3 +1,4 @@
+Project by Joshua and Abimbola
 This project involves implementing various features in the C printf function, covering a range of conversion specifiers and customization options. Here's a breakdown of the tasks:
 
 Implement basic functionality and handle common conversion specifiers.
